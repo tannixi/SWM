@@ -54,8 +54,4 @@ DATA:
   year={2022}
 }
 ```
-
-# License
-<a href="https://www.licenses.ai/source-code-license">
-  <img src="https://images.squarespace-cdn.com/content/v1/5c2a6d5c45776e85d1482a7e/1546750722018-T7QVBTM15DQMBJF6A62M/RAIL+Final.png" alt="License: Responsible AI" width="30%">
-</a>
+<img src="SWM.png" alt="License: Responsible AI" width="30%">
