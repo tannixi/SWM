@@ -54,4 +54,4 @@ DATA:
   year={2022}
 }
 ```
-<img src="SWM.png" alt="License: Responsible AI" width="30%">
+<img src="SWM.png" >
