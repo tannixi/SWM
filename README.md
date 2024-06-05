@@ -1,8 +1,5 @@
 <p align="center">
-:fire: Please remember to :star: this repo if you find it useful and cite our work if you end up using it in your work! :fire:
-</p>
-<p align="center">
-:fire: If you have any questions or concerns, please create an <a href="https://github.com/ubicomplab/rPPG-Toolbox/issues">issue</a> :memo:! :fire:
+This project is based on the [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox), and we have open-sourced our algorithm in the "neural_methods/model/" directory.
 </p>
 
 
